@@ -1,0 +1,18 @@
+# None 的 commit 周报
+
+## None 在本周共有 3 次 commits 
+
+1. [logistic回归的梯度上升实现
+
+1.梯度上升，主要是采用了最大似然的推导
+2.原文地址：http://blog.csdn.net/tianse12/article/details/70183348](https://github.com/fengxqinx/Machine_learning/commit/8cae03d35c1ecfa0086f9ab7003ed6091cc5ff7d) - Mon, 17 Apr 2017 01:31:19 GMT 
+
+2. [局部加权线性回归和一般线性回归
+
+1.包含三个模块：局部加权线性回归，普通线性回归以及梯度下降。
+2.局部加权回归基于非参数的学习算法
+3.局部加权实现的是特征的提取，后期再使用线性回归进行建模](https://github.com/fengxqinx/Machine_learning/commit/b6569c9035da55fbe516573a9b6a081ee61115bb) - Mon, 17 Apr 2017 01:31:19 GMT 
+
+3. [:octocat: Added .gitattributes & .gitignore files](https://github.com/fengxqinx/Machine_learning/commit/e88219bee0b4df46c0b06a563efc71d318a6338b) - Mon, 17 Apr 2017 01:31:19 GMT 
+
+---
