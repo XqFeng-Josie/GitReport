@@ -19,7 +19,8 @@ You can input these command to get useful message:
 ("'C->contribution'", "- Get all authors' commits")
 ("'I->issue'     ", "- Get all people's issues")
 ("'E->exit'      ", '- Quit repobot\n')
-C
+
+
 repo: <repository>
 
 ('In', u'Machine_learning', ', we need to choose a branch: ')
@@ -27,7 +28,7 @@ branch: <branch>
 
 .............................
 
-************************************************************
+
 You can input these command to get useful message: 
 
 ("'C->contribution'", "- Get all authors' commits")
